@@ -1,4 +1,4 @@
-# tugas-uts-klmpok
+# tugas-uts-kelmpok
 ## DETEKSI SMS SPAM PROMO DAN PENIPUAN
 
 Klasifikasi Pesan SMS ke dalam Kategori Normal, Promo, dan Penipuan Menggunakan
@@ -9,9 +9,9 @@ Tugas Mata Kuliah Artificial Intelligence
 
 Disusun oleh:
 
-Henry Ersya Tryas Putra (2501010237) I Wayan Bayu Kusumadinatha (2501010359)
-
-Andi Pratama (2501010092)
+        Henry Ersya Tryas Putra (2501010237) 
+        I Wayan Bayu Kusumadinatha (2501010359)
+        Andi Pratama (2501010092)
 
 Kotak masuk SMS hari ini tidak hanya berisi pesan dari teman atau keluarga. Di sana
 
